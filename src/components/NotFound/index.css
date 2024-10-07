@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.notFound_page_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFound_image {
+  width: 500px;
+}
+
+.error-message {
+  font-family: roboto;
+  font-size: 38px;
+  font-weight: bold;
+  color: #616e7c;
+}
+
+.error-message-description {
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+  color: #616e7c;
+  opacity: 0.8;
+}
